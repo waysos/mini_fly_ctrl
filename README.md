@@ -1,2 +1,4 @@
 # mini_fly_ctrl
 控制minifly的python程序
+通过虚拟摇杆实现的控制minifly的python程序
+
